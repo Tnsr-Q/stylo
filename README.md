@@ -1,6 +1,6 @@
 Stylo
 =====
-
+https://arxiv.org/pdf/2404.12753
 This repo contains Servo’s downstream fork of [Stylo](https://searchfox.org/mozilla-central/source/servo).
 
 The branches are as follows:
